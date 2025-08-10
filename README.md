@@ -54,6 +54,6 @@
 ## 🤝 Connect with Me
 <p align="center">
   <a href="mailto:rautshubham28@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
-  <a href="[https://www.linkedin.com/in/shubhamraut](https://www.linkedin.com/in/shubham-g-raut/)"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/shubham-g-raut"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/rautshubham28"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"></a>
 </p>
